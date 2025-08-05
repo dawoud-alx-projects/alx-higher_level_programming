@@ -1,0 +1,6 @@
+push
+execute
+*main*
+__pycache__
+linked_lists.c
+insert
